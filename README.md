@@ -18,7 +18,9 @@
     - 스택 : Last In First Out(LIFO)
         - pop - list.pip()
         - push - list.append() 와 동일
+    ![stack](https://cs.lmu.edu/~ray/images/stack.gif)
     - 큐 : First In First Out(FIFO)
+    ![queue](https://upload.wikimedia.org/wikipedia/commons/6/6d/QUEUE.png)
 
 ## 4일차
 - 파이썬 자료구조
