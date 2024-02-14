@@ -13,13 +13,17 @@
 
 ## 3일차
 - 파이썬 자료구조
+
     - 단순 연결 리스트 다시
     - 원형 연결 리스트(패스) : 마지막노드가 첫 노드와 연결
     - 스택 : Last In First Out(LIFO)
         - pop - list.pip()
         - push - list.append() 와 동일
+
     ![stack](https://cs.lmu.edu/~ray/images/stack.gif)
+
     - 큐 : First In First Out(FIFO)
+    
     ![queue](https://upload.wikimedia.org/wikipedia/commons/6/6d/QUEUE.png)
 
 ## 4일차
